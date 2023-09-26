@@ -1,6 +1,7 @@
 # Xpire: Make Every Day Counts
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [Audience / Target User Group](#audience--target-user-group)
@@ -69,11 +70,16 @@ We welcome contributions from the open-source community. If you'd like to contri
 ## Contributors' Contacts
 
 ### Fattah
-*   [LinkedIn](https://www.linkedin.com/in/muhammad24fattah/)
-*   [Email](fattahmuhammad666@gmail.com)
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad24fattah/)
+- [Email](fattahmuhammad666@gmail.com)
+
 ### Dzikri
-*   LinkedIn
-*   [Email](dzkri.ardfi@gmail.com)
+
+- LinkedIn
+- [Email](dzkri.ardfi@gmail.com)
+
 ### Indra
-*   LinkedIn
-*   [Email](indraakmal08@gmail.com) 
+
+- [LinkedIn](https://www.linkedin.com/in/indrawijaya01/)
+- [Email](indraakmal08@gmail.com)
